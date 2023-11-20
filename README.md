@@ -2,11 +2,10 @@
 ## pertemuan 9
 
 Daftar isi
-```
-1. Tugas dan pertanyaan
-2. Proses praktikum
 
-```
+1. Tugas dan pertanyaan [here](## 1. Tugas Dan pertanyaan)
+2. Proses praktikum  [here](## 2. Proses praktikum)
+
 
 ## 1. Tugas Dan pertanyaan
 
