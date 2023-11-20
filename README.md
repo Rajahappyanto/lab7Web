@@ -22,8 +22,13 @@ code
 ```
 out put
 ```
+![img](https://github.com/luffy-arc/lab7Web/blob/main/Screenshot%20(46).png)
+![img](https://github.com/luffy-arc/lab7Web/blob/main/Screenshot%20(48).png)
 
 ## 2. Proses praktikum
 
 * cara menjalankan PHP
+  ![img](https://github.com/luffy-arc/lab7Web/blob/main/Screenshot%20(43).png)
+  ![img](https://github.com/luffy-arc/lab7Web/blob/main/Screenshot%20(44).png)
+  ![img](https://github.com/luffy-arc/lab7Web/blob/main/Screenshot%20(45).png)
 
