@@ -1,5 +1,5 @@
 # lab7Web
-## pertemuan 9/tugas/rajaheppyanto/312210235
+## Pertemuan 9/tugas/rajaheppyanto/312210235
 
 Daftar isi
 ```
@@ -98,9 +98,9 @@ code:
 
 ```
 ![img](https://github.com/luffy-arc/lab7Web/blob/main/Screenshot%20(47).png)
-```
-out put
-```
+
+## OUTPUT
+
 ![img](https://github.com/luffy-arc/lab7Web/blob/main/Screenshot%20(46).png)
 ![img](https://github.com/luffy-arc/lab7Web/blob/main/Screenshot%20(48).png)
 
