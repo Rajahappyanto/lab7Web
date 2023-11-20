@@ -18,7 +18,7 @@ berbeda-beda sesuai pilihan pekerjaan.
 ```
 code
 ```
-![img](screenshot43.png](https://github.com/luffy-arc/lab7Web/blob/main/Screenshot%20(47).png)https://github.com/luffy-arc/lab7Web/blob/main/Screenshot%20(47).png)
+![img](https://github.com/luffy-arc/lab7Web/blob/main/Screenshot%20(47).png)
 ```
 out put
 ```
